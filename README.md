@@ -6,4 +6,8 @@
 
 1. [ECG 데이터 불러오기](#ecg-데이터-불러오기)
 2. [ECG 데이터를 스펙트로그램으로 변환](#ecg-데이터를-스펙트로그램으로-변환)
-3. [스펙트로그램 이미지 극 좌표 변환](#스펙트로그램-이미지-극-좌표-변환)
+![Spectrogram Polar Transform](./images/spectrogram_polar_transform.png)
+![(./images/spectrogram_polar_transform.png)](https://github.com/hepsdata/ECG_Classification/blob/main/sample/A00001_monitor.png?raw=true)https://github.com/hepsdata/ECG_Classification/blob/main/sample/A00001_monitor.png?raw=true
+
+
+4. [스펙트로그램 이미지 극 좌표 변환](#스펙트로그램-이미지-극-좌표-변환)
