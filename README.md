@@ -4,8 +4,7 @@
 
 ## 목차
 
-1. [ECG 데이터 불러오기](#ecg-데이터-불러오기) :
-![PhysioNet Challenge 2017 데이터](https://physionet.org/content/challenge-2017/1.0.0/)
+1. [ECG 데이터 불러오기](#ecg-데이터-불러오기) :![PhysioNet Challenge 2017 데이터](https://physionet.org/content/challenge-2017/1.0.0/)
 
 
 3. [ECG 데이터를 스펙트로그램으로 변환](#ecg-데이터를-스펙트로그램으로-변환)
