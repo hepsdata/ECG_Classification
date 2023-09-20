@@ -12,4 +12,5 @@
 
 
 [스펙트로그램 이미지 극 좌표 변환](#스펙트로그램-이미지-극-좌표-변환)
-![image](https://github.com/hepsdata/ECG_Classification/assets/100850547/9e2be28d-2664-4173-8463-ab6feed6d697)
+![image]
+(https://github.com/hepsdata/ECG_Classification/assets/100850547/9e2be28d-2664-4173-8463-ab6feed6d697)
