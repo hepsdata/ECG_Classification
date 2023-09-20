@@ -4,7 +4,8 @@
 
 ## 목차
 [ECG 데이터 불러오기](#ecg-데이터-불러오기) : 
-![PhysioNet Challenge 2017 데이터 바로가기](https://physionet.org/content/challenge-2017/1.0.0/)
+[PhysioNet Challenge 2017 데이터 바로가기](https://physionet.org/content/challenge-2017/1.0.0/)
+
 
 
 
