@@ -16,7 +16,7 @@ This project provides a user interface for visualizing ECG data as iris spectrog
 
 Before running this project, make sure you have installed:
 
-- Python 3.x
+- Python 3.10.13
 - Streamlit
 - Matplotlib
 - WFDB
