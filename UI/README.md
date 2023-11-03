@@ -33,8 +33,8 @@ Pan-Tompkins algorithm by Pramod07Ch: GitHub Repository
 Spectrogram function by awerdich: GitHub Repository
 
 ## Authors
-- **Dong woo Lee** - *Initial work* - [Hepsdata](https://github.com/hepsdata) <br>
-OpenAI's ChatGPT - Code and Documentation Assistance
+- **Dong woo Lee** - *Initial work* - [Hepsdata](https://github.com/hepsdata)
+- OpenAI's ChatGPT - Code and Documentation Assistance
 
 ## License
 This project is licensed under the MIT License
