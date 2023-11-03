@@ -14,6 +14,9 @@ This project provides a user interface for visualizing ECG data as iris spectrog
 
 The ECG data used for visualization in this project is taken from the PhysioNet 2017 Challenge dataset, which can be accessed [here](https://physionet.org/content/challenge-2017/1.0.0/).
 
+### Data Structure
+The application expects a CSV file containing 'ID' and 'Label' columns. The corresponding ECG recordings should be present in the training2017 directory as .mat and .hea files.
+
 ## Getting Started
 
 ### Prerequisites
@@ -27,11 +30,6 @@ Before running this project, make sure you have installed:
 - Scipy
 - Numpy
 - Pandas
-
-### Data Structure
-The application expects a CSV file containing 'ID' and 'Label' columns. The corresponding ECG recordings should be present in the training2017 directory as .mat and .hea files.
-
-
 
 ## Acknowledgements
 This work makes use of algorithms and processing methods from the following repositories:
