@@ -10,6 +10,10 @@ This project provides a user interface for visualizing ECG data as iris spectrog
 - Interpolate k-space data for improved visualization.
 - 3D surface plot for k-space data visualization.
 
+## Dataset
+
+The ECG data used for visualization in this project is taken from the PhysioNet 2017 Challenge dataset, which can be accessed [here](https://physionet.org/content/challenge-2017/1.0.0/).
+
 ## Getting Started
 
 ### Prerequisites
@@ -26,6 +30,8 @@ Before running this project, make sure you have installed:
 
 ### Data Structure
 The application expects a CSV file containing 'ID' and 'Label' columns. The corresponding ECG recordings should be present in the training2017 directory as .mat and .hea files.
+
+
 
 ## Acknowledgements
 This work makes use of algorithms and processing methods from the following repositories:
