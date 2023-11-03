@@ -40,6 +40,8 @@ Spectrogram function by awerdich: GitHub Repository
 
 The Streamlit UI allows users to interact with several parameters for customizing the visualization of the ECG data. Below is a description of each parameter:
 
+![Alt text for the image](https://github.com/hepsdata/ECG_Classification/blob/main/UI/theme.png?raw=true "Optional title")
+
 - **Choose a Label for Visualization**: This dropdown allows users to select a specific label associated with the ECG data. The dataset contains various labels which represent different classifications of ECG signals.
 
 - **Choose an ID for Visualization**: Based on the selected label, this dropdown lists all the IDs associated with that label. Users can choose one to visualize the corresponding ECG data.
@@ -58,8 +60,7 @@ The Streamlit UI allows users to interact with several parameters for customizin
 
 These parameters allow for a highly customizable visualization experience, enabling users to explore the ECG data in various ways to suit their specific research or clinical needs.
 
-
-
+![Alt text for the image](https://github.com/hepsdata/ECG_Classification/blob/main/UI/plot.png?raw=true "Optional title")
 
 ## Authors
 - **Dong woo Lee** - *Initial work* - [Hepsdata](https://github.com/hepsdata)
